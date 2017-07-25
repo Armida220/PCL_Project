@@ -1,0 +1,5 @@
+﻿  main.cpp
+f:\3rdparty\pcl 1.8.0\include\pcl-1.8\pcl\point_traits.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+h:\pcl\pcl_project\欧式聚类\main.cpp(91): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  欧式聚类.vcxproj -> H:\PCL\PCL_Project\x64\Debug\欧式聚类.exe
+  欧式聚类.vcxproj -> H:\PCL\PCL_Project\x64\Debug\欧式聚类.pdb (Full PDB)

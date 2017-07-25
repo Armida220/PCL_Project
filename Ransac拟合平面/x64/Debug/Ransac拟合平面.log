@@ -1,0 +1,6 @@
+﻿  main.cpp
+f:\3rdparty\pcl 1.8.0\include\pcl-1.8\pcl\sample_consensus\ransac.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\3rdparty\pcl 1.8.0\include\pcl-1.8\pcl\point_traits.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+h:\pcl\pcl_project\ransac拟合平面\new3s_pointxyz.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Ransac拟合平面.vcxproj -> H:\PCL\PCL_Project\x64\Debug\Ransac拟合平面.exe
+  Ransac拟合平面.vcxproj -> H:\PCL\PCL_Project\x64\Debug\Ransac拟合平面.pdb (Full PDB)

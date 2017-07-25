@@ -1,0 +1,9 @@
+﻿  main.cpp
+f:\3rdparty\pcl 1.8.0\include\pcl-1.8\pcl\point_traits.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\3rdparty\pcl 1.8.0\include\pcl-1.8\pcl\visualization\interactor_style.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\3rdparty\pcl 1.8.0\include\pcl-1.8\pcl\visualization\pcl_visualizer.h(1618): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\3rdparty\pcl 1.8.0\include\pcl-1.8\pcl\visualization\impl\point_cloud_color_handlers.hpp(549): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  f:\3rdparty\pcl 1.8.0\include\pcl-1.8\pcl\visualization\impl\point_cloud_color_handlers.hpp(525): note: 编译类 模板 成员函数“bool pcl::visualization::PointCloudColorHandlerLabelField<pcl::PointXYZL>::getColor(vtkSmartPointer<vtkDataArray> &) const”时
+  f:\3rdparty\pcl 1.8.0\include\pcl-1.8\pcl\visualization\pcl_visualizer.h(907): note: 参见对正在编译的类 模板 实例化“pcl::visualization::PointCloudColorHandlerLabelField<pcl::PointXYZL>”的引用
+  点云区域生长分割.vcxproj -> H:\PCL\PCL_Project\x64\Debug\点云区域生长分割.exe
+  点云区域生长分割.vcxproj -> H:\PCL\PCL_Project\x64\Debug\点云区域生长分割.pdb (Full PDB)

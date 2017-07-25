@@ -1,0 +1,4 @@
+﻿  main.cpp
+f:\3rdparty\pcl 1.8.0\include\pcl-1.8\pcl\point_traits.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  PCL_Project.vcxproj -> H:\PCL\PCL_Project\x64\Debug\PCL_Project.exe
+  PCL_Project.vcxproj -> H:\PCL\PCL_Project\x64\Debug\PCL_Project.pdb (Full PDB)
